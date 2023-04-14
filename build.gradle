@@ -44,6 +44,6 @@ tasks.named('test') {
 
 sonar {
     properties {
-        property "sonar.projectKey", "sonar"
+        property "sonar.projectKey", "sonar2"
     }
 }
